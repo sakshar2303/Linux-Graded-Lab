@@ -1,0 +1,7 @@
+INFO: Server Started
+INFO: Database Connected
+ERROR: Connection Timeout
+INFO: User Login
+ERROR: Disk Space Low
+ERROR: Memory Overflow
+ERROR: CPU Usage High
